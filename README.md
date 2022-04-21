@@ -26,3 +26,17 @@ Nous allons utilisées du js
 2. Docker
 
 ### NB: Je suis conscient du challenge, je reste cependant sur que nous allons nous amuser.
+
+
+### Lancer le frontend
+
+1. Aller dans le dossier app [sous linux cd app/ ] 
+2. Installer les dépendances  [npm install]
+3. Démarrer le serveur [npm run serve]
+
+
+### Lancer le backend
+
+1. Aller dans le dossier app [sous linux cd api/ ] 
+2. Installer les dépendances  [npm install]
+3. Démarrer le serveur [npm run dev-api]
